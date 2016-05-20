@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.12.18)  20 MAY 2016 08:58
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.12.18)  20 MAY 2016 10:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1128,12 +1128,12 @@ LaTeX Font Info:    Font shape `T1/ntxrx/m/n' will be
  [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-<images/NGC5548_Variability.jpg, id=128, 712.6625pt x 501.875pt>
+<images/NGC5548_Variability.jpg, id=56, 712.6625pt x 501.875pt>
 File: images/NGC5548_Variability.jpg Graphic file (type jpg)
 
 <use images/NGC5548_Variability.jpg>
 Package pdftex.def Info: images/NGC5548_Variability.jpg used on input line 89.
-(pdftex.def)             Requested size: 178.16519pt x 125.46843pt.
+(pdftex.def)             Requested size: 142.52997pt x 100.37321pt.
 LaTeX Font Info:    Font shape `T1/ntxrx/m/n' will be
 (Font)              scaled to size 6.1pt on input line 89.
 LaTeX Font Info:    Try loading font information for U+msa on input line 89.
@@ -1163,540 +1163,178 @@ LaTeX Font Info:    Try loading font information for U+eur on input line 89.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/ueur.fd
 File: ueur.fd 2013/01/14 v3.01 Euler Roman
-)
-Overfull \vbox (2.39581pt too high) detected at line 89
- []
-
-[2
+) [2
 
  <./images/NGC5548_Variability.jpg>]
-<images/agn_sed.jpg, id=166, 1576.89125pt x 1187.43625pt>
-File: images/agn_sed.jpg Graphic file (type jpg)
-
-<use images/agn_sed.jpg>
-Package pdftex.def Info: images/agn_sed.jpg used on input line 229.
-(pdftex.def)             Requested size: 157.69836pt x 118.75058pt.
- <images/AGNModel.jpg, id=168, 711.65875pt x 602.25pt>
-File: images/AGNModel.jpg Graphic file (type jpg)
-
-<use images/AGNModel.jpg>
-Package pdftex.def Info: images/AGNModel.jpg used on input line 229.
-(pdftex.def)             Requested size: 177.91425pt x 150.56212pt.
-
-Overfull \hbox (6.70445pt too wide) in paragraph at lines 229--229
- [] 
- []
-
-LaTeX Font Info:    Font shape `T1/ntxrx/m/n' will be
-(Font)              scaled to size 10.5pt on input line 229.
-LaTeX Font Info:    Font shape `T1/ntxrx/m/n' will be
-(Font)              scaled to size 7.9pt on input line 229.
-
-LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <10.5> not available
-(Font)              size <10.95> substituted on input line 229.
-
-[3
-
- <./images/agn_sed.jpg> <./images/AGNModel.jpg>]
-<images/MRI.jpg, id=200, 239.54663pt x 262.28326pt>
-File: images/MRI.jpg Graphic file (type jpg)
- <use images/MRI.jpg>
-Package pdftex.def Info: images/MRI.jpg used on input line 256.
-(pdftex.def)             Requested size: 119.77301pt x 131.1413pt.
-
-<images/pol3d.jpg, id=202, 301.125pt x 301.125pt>
-File: images/pol3d.jpg Graphic file (type jpg)
- <use images/pol3d.jpg>
-Package pdftex.def Info: images/pol3d.jpg used on input line 256.
-(pdftex.def)             Requested size: 150.56212pt x 150.56212pt.
-
-[4
-
- <./images/MRI.jpg> <./images/pol3d.jpg>]
-<images/fluctuations.jpg, id=233, 240.9pt x 160.6pt>
-File: images/fluctuations.jpg Graphic file (type jpg)
-
-<use images/fluctuations.jpg>
-Package pdftex.def Info: images/fluctuations.jpg used on input line 287.
-(pdftex.def)             Requested size: 120.44969pt x 80.29979pt.
-LaTeX Font Info:    Font shape `T1/ntxrx/m/n' will be
-(Font)              scaled to size 10.0pt on input line 287.
- [5
-
- <./images/fluctuations.jpg>]
-<images/BelloniStella14_KerrOrbits.jpg, id=267, 342.20314pt x 125.76857pt>
-File: images/BelloniStella14_KerrOrbits.jpg Graphic file (type jpg)
-
-<use images/BelloniStella14_KerrOrbits.jpg>
-Package pdftex.def Info: images/BelloniStella14_KerrOrbits.jpg used on input li
-ne 326.
-(pdftex.def)             Requested size: 188.2123pt x 69.17291pt.
-LaTeX Font Info:    Font shape `T1/ntxrx/m/it' will be
-(Font)              scaled to size 14.4pt on input line 326.
- [6
-
- <./images/BelloniStella14_KerrOrbits.jpg>] <images/BelloniStella14_PDS.jpg, id
-=301, 351.9688pt x 211.94568pt>
+<images/BelloniStella14_PDS.jpg, id=88, 351.9688pt x 211.94568pt>
 File: images/BelloniStella14_PDS.jpg Graphic file (type jpg)
 
 <use images/BelloniStella14_PDS.jpg>
 Package pdftex.def Info: images/BelloniStella14_PDS.jpg used on input line 340.
 
 (pdftex.def)             Requested size: 263.97594pt x 158.95886pt.
- [7
+ [3
 
  <./images/BelloniStella14_PDS.jpg>]
-<images/Kelly09a.jpg, id=333, 501.875pt x 216.81pt>
-File: images/Kelly09a.jpg Graphic file (type jpg)
- <use images/Kelly09a.jpg>
-Package pdftex.def Info: images/Kelly09a.jpg used on input line 364.
-(pdftex.def)             Requested size: 200.74643pt x 86.72246pt.
-
-<images/Kelly09bf.jpg, id=334, 301.125pt x 521.95pt>
-File: images/Kelly09bf.jpg Graphic file (type jpg)
-
-<use images/Kelly09bf.jpg>
-Package pdftex.def Info: images/Kelly09bf.jpg used on input line 364.
-(pdftex.def)             Requested size: 90.33818pt x 156.5862pt.
- [8
-
- <./images/Kelly09a.jpg> <./images/Kelly09bf.jpg>] <images/RW_Illustration.jpg,
- id=365, 1284.8pt x 1287.81125pt>
-File: images/RW_Illustration.jpg Graphic file (type jpg)
-
-<use images/RW_Illustration.jpg>
-Package pdftex.def Info: images/RW_Illustration.jpg used on input line 389.
-(pdftex.def)             Requested size: 154.16934pt x 154.53069pt.
-LaTeX Font Info:    Font shape `T1/ntxrx/m/n' will be
-(Font)              scaled to size 7.3pt on input line 389.
-LaTeX Font Info:    Font shape `T1/ntxrx/m/n' will be
-(Font)              scaled to size 5.5pt on input line 389.
-
-
-LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <5.5> not available
-(Font)              size <5> substituted on input line 389.
-
-[9
-
- <./images/RW_Illustration.jpg>]
-<images/DRW_Illustration.jpg, id=398, 1284.8pt x 1286.8075pt>
-File: images/DRW_Illustration.jpg Graphic file (type jpg)
-
-<use images/DRW_Illustration.jpg>
-Package pdftex.def Info: images/DRW_Illustration.jpg used on input line 426.
-(pdftex.def)             Requested size: 154.16934pt x 154.41023pt.
-LaTeX Font Info:    Font shape `T1/ntxrx/m/n' will be
-(Font)              scaled to size 6.5pt on input line 426.
-
-
-LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <6.5> not available
-(Font)              size <6> substituted on input line 426.
-
-[10
-
- <./images/DRW_Illustration.jpg>]
-<images/DRW.jpg, id=430, 1927.2pt x 1927.2pt>
+<images/DRW.jpg, id=117, 1927.2pt x 1927.2pt>
 File: images/DRW.jpg Graphic file (type jpg)
  <use images/DRW.jpg>
-Package pdftex.def Info: images/DRW.jpg used on input line 455.
+Package pdftex.def Info: images/DRW.jpg used on input line 459.
 (pdftex.def)             Requested size: 173.44052pt x 173.44052pt.
 
-Overfull \hbox (2.23073pt too wide) in paragraph at lines 455--455
+Overfull \hbox (2.23073pt too wide) in paragraph at lines 459--459
  [] 
  []
 
-[11
+[4
 
- <./images/DRW.jpg>]
-<images/Kepler_PosterMedium.jpeg, id=460, 295.1025pt x 229.8186pt>
-File: images/Kepler_PosterMedium.jpeg Graphic file (type jpg)
+ <./images/DRW.jpg>] <images/AllLC.jpg, id=152, 433.62pt x 433.62pt>
+File: images/AllLC.jpg Graphic file (type jpg)
 
-<use images/Kepler_PosterMedium.jpeg>
-Package pdftex.def Info: images/Kepler_PosterMedium.jpeg used on input line 469
-.
-(pdftex.def)             Requested size: 221.32631pt x 172.36353pt.
+<use images/AllLC.jpg>
+Package pdftex.def Info: images/AllLC.jpg used on input line 672.
+(pdftex.def)             Requested size: 195.1272pt x 195.1272pt.
+ [5
+
+ <./images/AllLC.jpg>]
+<images/AllSF.jpg, id=181, 433.62pt x 433.62pt>
+File: images/AllSF.jpg Graphic file (type jpg)
+ <use images/AllSF.jpg>
+Package pdftex.def Info: images/AllSF.jpg used on input line 698.
+(pdftex.def)             Requested size: 195.1272pt x 195.1272pt.
+ [6
+
+ <./images/AllSF.jpg>] <images/CARMA(3,1)_LC.jpg, id=210, 4203.705pt x 2769.346
+25pt>
+File: images/CARMA(3,1)_LC.jpg Graphic file (type jpg)
+
+<use images/CARMA(3,1)_LC.jpg>
+Package pdftex.def Info: images/CARMA(3,1)_LC.jpg used on input line 748.
+(pdftex.def)             Requested size: 178.63907pt x 117.68509pt.
+
+Overfull \hbox (7.42928pt too wide) in paragraph at lines 748--748
+ [] 
+ []
+
+
+Overfull \vbox (5.76782pt too high) detected at line 748
+ []
+
+[7
+
+ <./images/CARMA(3,1)_LC.jpg>]
+<images/CARMA(2,1)_PSD.jpg, id=242, 4275.975pt x 2699.08376pt>
+File: images/CARMA(2,1)_PSD.jpg Graphic file (type jpg)
+
+<use images/CARMA(2,1)_PSD.jpg>
+Package pdftex.def Info: images/CARMA(2,1)_PSD.jpg used on input line 768.
+(pdftex.def)             Requested size: 171.00987pt x 107.94496pt.
+
+<images/CARMA(2,1)_LC.jpg, id=243, 4281.9975pt x 2769.34625pt>
+File: images/CARMA(2,1)_LC.jpg Graphic file (type jpg)
+
+<use images/CARMA(2,1)_LC.jpg>
+Package pdftex.def Info: images/CARMA(2,1)_LC.jpg used on input line 768.
+(pdftex.def)             Requested size: 171.25073pt x 110.75497pt.
+LaTeX Font Info:    Font shape `T1/ntxrx/m/n' will be
+(Font)              scaled to size 10.5pt on input line 768.
+LaTeX Font Info:    Font shape `T1/ntxrx/m/n' will be
+(Font)              scaled to size 7.9pt on input line 768.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <10.5> not available
+(Font)              size <10.95> substituted on input line 768.
+
+[8
+
+ <./images/CARMA(2,1)_PSD.jpg> <./images/CARMA(2,1)_LC.jpg>]
+<images/CARMA(2,1)_Recovery.jpg, id=273, 3485.02pt x 2858.68pt>
+File: images/CARMA(2,1)_Recovery.jpg Graphic file (type jpg)
+
+<use images/CARMA(2,1)_Recovery.jpg>
+Package pdftex.def Info: images/CARMA(2,1)_Recovery.jpg used on input line 878.
+
+(pdftex.def)             Requested size: 261.36522pt x 214.39175pt.
+
+Overfull \vbox (8.47446pt too high) detected at line 878
+ []
+
+[9
+
+ <./images/CARMA(2,1)_Recovery.jpg>]
+<images/CARMA(2,1)_GF.jpg, id=302, 4167.57pt x 2693.06125pt>
+File: images/CARMA(2,1)_GF.jpg Graphic file (type jpg)
+
+<use images/CARMA(2,1)_GF.jpg>
+Package pdftex.def Info: images/CARMA(2,1)_GF.jpg used on input line 900.
+(pdftex.def)             Requested size: 250.04341pt x 161.5767pt.
+
+Overfull \vbox (6.61511pt too high) detected at line 900
+ []
+
+[10
+
+ <./images/CARMA(2,1)_GF.jpg>]
+<images/Zw229-15_LC.jpg, id=332, 4751.7525pt x 2889.79625pt>
+File: images/Zw229-15_LC.jpg Graphic file (type jpg)
+
+<use images/Zw229-15_LC.jpg>
+Package pdftex.def Info: images/Zw229-15_LC.jpg used on input line 940.
+(pdftex.def)             Requested size: 308.87476pt x 187.84335pt.
+ [11
+
+ <./images/Zw229-15_LC.jpg>]
+<images/Zw229-15_GF.jpg, id=362, 4715.6175pt x 2854.665pt>
+File: images/Zw229-15_GF.jpg Graphic file (type jpg)
+
+<use images/Zw229-15_GF.jpg>
+Package pdftex.def Info: images/Zw229-15_GF.jpg used on input line 965.
+(pdftex.def)             Requested size: 306.5259pt x 185.55974pt.
  [12
 
- <./images/Kepler_PosterMedium.jpeg>]
-<images/Kepler_Spacecraft.jpg, id=493, 436.5108pt x 379.1766pt>
-File: images/Kepler_Spacecraft.jpg Graphic file (type jpg)
+ <./images/Zw229-15_GF.jpg>]
+<images/PowerOfSDSSK2.jpg, id=391, 4254.89626pt x 2898.83pt>
+File: images/PowerOfSDSSK2.jpg Graphic file (type jpg)
 
-<use images/Kepler_Spacecraft.jpg>
-Package pdftex.def Info: images/Kepler_Spacecraft.jpg used on input line 493.
-(pdftex.def)             Requested size: 218.25485pt x 189.58783pt.
+<use images/PowerOfSDSSK2.jpg>
+Package pdftex.def Info: images/PowerOfSDSSK2.jpg used on input line 1055.
+(pdftex.def)             Requested size: 276.57797pt x 188.43056pt.
 
-Overfull \hbox (12.80101pt too wide) in paragraph at lines 493--493
- [] 
+Overfull \vbox (0.51326pt too high) detected at line 1055
  []
 
 [13
 
- <./images/Kepler_Spacecraft.jpg>]
-<images/Kepler_FOV.jpg, id=525, 433.985pt x 541.295pt>
-File: images/Kepler_FOV.jpg Graphic file (type jpg)
+ <./images/PowerOfSDSSK2.jpg>]
+<images/LC_2.jpg, id=420, 1003.75pt x 649.42625pt>
+File: images/LC_2.jpg Graphic file (type jpg)
+ <use images/LC_2.jpg>
+Package pdftex.def Info: images/LC_2.jpg used on input line 1062.
+(pdftex.def)             Requested size: 301.12732pt x 194.82938pt.
 
-<use images/Kepler_FOV.jpg>
-Package pdftex.def Info: images/Kepler_FOV.jpg used on input line 518.
-(pdftex.def)             Requested size: 130.1965pt x 162.38974pt.
- [14
-
- <./images/Kepler_FOV.jpg>]
-<images/kplr006932990-1stIncr_3D.jpg, id=555, 2055.68pt x 1599.9775pt>
-File: images/kplr006932990-1stIncr_3D.jpg Graphic file (type jpg)
-
-<use images/kplr006932990-1stIncr_3D.jpg>
-Package pdftex.def Info: images/kplr006932990-1stIncr_3D.jpg used on input line
- 551.
-(pdftex.def)             Requested size: 179.85901pt x 139.98792pt.
- [15
-
- <./images/kplr006932990-1stIncr_3D.jpg>] <images/SF_Illustration.jpg, id=589, 
-1286.8075pt x 1287.81125pt>
-File: images/SF_Illustration.jpg Graphic file (type jpg)
-
-<use images/SF_Illustration.jpg>
-Package pdftex.def Info: images/SF_Illustration.jpg used on input line 579.
-(pdftex.def)             Requested size: 154.41023pt x 154.53069pt.
- [16
-
- <./images/SF_Illustration.jpg>]
-<images/p2fig1.jpg, id=620, 1009.90286pt x 650.43pt>
-File: images/p2fig1.jpg Graphic file (type jpg)
- <use images/p2fig1.jpg>
-Package pdftex.def Info: images/p2fig1.jpg used on input line 606.
-(pdftex.def)             Requested size: 154.0061pt x 99.18794pt.
-
-<images/p2fig2.jpg, id=621, 1118.37825pt x 699.93495pt>
-File: images/p2fig2.jpg Graphic file (type jpg)
-
-<use images/p2fig2.jpg>
-Package pdftex.def Info: images/p2fig2.jpg used on input line 606.
-(pdftex.def)             Requested size: 145.39427pt x 90.99474pt.
- [17
-
- <./images/p2fig1.jpg> <./images/p2fig2.jpg>]
-<images/kplr006932990-Q7_LCs.jpg, id=652, 730.0pt x 365.0pt>
-File: images/kplr006932990-Q7_LCs.jpg Graphic file (type jpg)
-
-<use images/kplr006932990-Q7_LCs.jpg>
-Package pdftex.def Info: images/kplr006932990-Q7_LCs.jpg used on input line 623
-.
-(pdftex.def)             Requested size: 255.50383pt x 127.7519pt.
- [18
-
- <./images/kplr006932990-Q7_LCs.jpg>]
-<images/p2fig3.jpg, id=684, 1119.4623pt x 699.93495pt>
-File: images/p2fig3.jpg Graphic file (type jpg)
- <use images/p2fig3.jpg>
-Package pdftex.def Info: images/p2fig3.jpg used on input line 644.
-(pdftex.def)             Requested size: 223.88849pt x 139.9845pt.
-
-Overfull \hbox (1.31784pt too wide) in paragraph at lines 644--644
- [] 
+Overfull \vbox (6.91208pt too high) detected at line 1062
  []
 
-[19
+[14
 
- <./images/p2fig3.jpg>] <images/AllLC.jpg, id=717, 433.62pt x 433.62pt>
-File: images/AllLC.jpg Graphic file (type jpg)
+ <./images/LC_2.jpg>]
 
-<use images/AllLC.jpg>
-Package pdftex.def Info: images/AllLC.jpg used on input line 664.
-(pdftex.def)             Requested size: 195.1272pt x 195.1272pt.
- [20
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\translate ' on input line 1577.
 
- <./images/AllLC.jpg>]
-<images/AllSF.jpg, id=747, 433.62pt x 433.62pt>
-File: images/AllSF.jpg Graphic file (type jpg)
- <use images/AllSF.jpg>
-Package pdftex.def Info: images/AllSF.jpg used on input line 690.
-(pdftex.def)             Requested size: 195.1272pt x 195.1272pt.
- [21
-
- <./images/AllSF.jpg>] <images/Periodogram.jpg, id=777, 4096.30376pt x 2704.102
-5pt>
-File: images/Periodogram.jpg Graphic file (type jpg)
-
-<use images/Periodogram.jpg>
-Package pdftex.def Info: images/Periodogram.jpg used on input line 708.
-(pdftex.def)             Requested size: 204.82718pt x 135.21304pt.
- [22
-
- <./images/Periodogram.jpg>]
-<images/CARMA(3,1)_LC.jpg, id=808, 4203.705pt x 2769.34625pt>
-File: images/CARMA(3,1)_LC.jpg Graphic file (type jpg)
-
-<use images/CARMA(3,1)_LC.jpg>
-Package pdftex.def Info: images/CARMA(3,1)_LC.jpg used on input line 736.
-(pdftex.def)             Requested size: 178.63907pt x 117.68509pt.
-
-Overfull \hbox (7.42928pt too wide) in paragraph at lines 736--736
- [] 
- []
-
-
-Overfull \vbox (5.76782pt too high) detected at line 736
- []
-
-[23
-
- <./images/CARMA(3,1)_LC.jpg>]
-<images/CARMA(2,1)_PSD.jpg, id=845, 4275.975pt x 2699.08376pt>
-File: images/CARMA(2,1)_PSD.jpg Graphic file (type jpg)
-
-<use images/CARMA(2,1)_PSD.jpg>
-Package pdftex.def Info: images/CARMA(2,1)_PSD.jpg used on input line 756.
-(pdftex.def)             Requested size: 171.00987pt x 107.94496pt.
-
-<images/CARMA(2,1)_LC.jpg, id=846, 4281.9975pt x 2769.34625pt>
-File: images/CARMA(2,1)_LC.jpg Graphic file (type jpg)
-
-<use images/CARMA(2,1)_LC.jpg>
-Package pdftex.def Info: images/CARMA(2,1)_LC.jpg used on input line 756.
-(pdftex.def)             Requested size: 171.25073pt x 110.75497pt.
- [24
-
- <./images/CARMA(2,1)_PSD.jpg> <./images/CARMA(2,1)_LC.jpg>] <images/CARMA(5,1)
-_PSD.jpg, id=876, 4512.86pt x 2799.45876pt>
-File: images/CARMA(5,1)_PSD.jpg Graphic file (type jpg)
-
-<use images/CARMA(5,1)_PSD.jpg>
-Package pdftex.def Info: images/CARMA(5,1)_PSD.jpg used on input line 776.
-(pdftex.def)             Requested size: 180.48366pt x 111.95927pt.
-
-Overfull \hbox (9.27386pt too wide) in paragraph at lines 776--776
- [] 
- []
-
-<images/CARMA(5,1)_LC.jpg, id=877, 4281.9975pt x 2769.34625pt>
-File: images/CARMA(5,1)_LC.jpg Graphic file (type jpg)
-
-<use images/CARMA(5,1)_LC.jpg>
-Package pdftex.def Info: images/CARMA(5,1)_LC.jpg used on input line 776.
-(pdftex.def)             Requested size: 171.25073pt x 110.75497pt.
- [25
-
- <./images/CARMA(5,1)_PSD.jpg> <./images/CARMA(5,1)_LC.jpg>]
-LaTeX Font Info:    Font shape `T1/ntxrx/bx/n' will be
-(Font)              scaled to size 10.95pt on input line 815.
-LaTeX Font Info:    Font shape `T1/ntxrx/bx/it' will be
-(Font)              scaled to size 10.95pt on input line 815.
-LaTeX Font Info:    Try loading font information for T1+qhv on input line 815.
+(./talk.bbl
+LaTeX Font Info:    Try loading font information for T1+qhv on input line 128.
  (/usr/share/texmf/tex/latex/tex-gyre/t1qhv.fd
 File: t1qhv.fd 2009/09/25 v1.2 font definition file for T1/qhv
 )
-LaTeX Font Info:    Font shape `T1/qhv/bx/n' in size <10.95> not available
-(Font)              Font shape `T1/qhv/b/n' tried instead on input line 815.
-LaTeX Font Info:    Font shape `T1/qhv/b/n' will be
-(Font)              scaled to size 9.85492pt on input line 815.
- [26
-
-]
-<images/Fig0_Pt5_Step4.jpg, id=946, 1447.4075pt x 889.3225pt>
-File: images/Fig0_Pt5_Step4.jpg Graphic file (type jpg)
-
-<use images/Fig0_Pt5_Step4.jpg>
-Package pdftex.def Info: images/Fig0_Pt5_Step4.jpg used on input line 828.
-(pdftex.def)             Requested size: 289.47638pt x 177.86134pt.
- [27
-
- <./images/Fig0_Pt5_Step4.jpg>] [28
-
-]
-<images/Fig1_Pt5_Step5.jpg, id=1010, 1456.44125pt x 934.49126pt>
-File: images/Fig1_Pt5_Step5.jpg Graphic file (type jpg)
-
-<use images/Fig1_Pt5_Step5.jpg>
-Package pdftex.def Info: images/Fig1_Pt5_Step5.jpg used on input line 855.
-(pdftex.def)             Requested size: 291.28308pt x 186.89494pt.
- [29
-
- <./images/Fig1_Pt5_Step5.jpg>]
-<images/CARMA(2,1)_Recovery.jpg, id=1043, 3485.02pt x 2858.68pt>
-File: images/CARMA(2,1)_Recovery.jpg Graphic file (type jpg)
-
-<use images/CARMA(2,1)_Recovery.jpg>
-Package pdftex.def Info: images/CARMA(2,1)_Recovery.jpg used on input line 862.
-
-(pdftex.def)             Requested size: 261.36522pt x 214.39175pt.
-
-Overfull \vbox (8.47446pt too high) detected at line 862
- []
-
-[30
-
- <./images/CARMA(2,1)_Recovery.jpg>]
-<images/CARMA(2,1)_GF.jpg, id=1073, 4167.57pt x 2693.06125pt>
-File: images/CARMA(2,1)_GF.jpg Graphic file (type jpg)
-
-<use images/CARMA(2,1)_GF.jpg>
-Package pdftex.def Info: images/CARMA(2,1)_GF.jpg used on input line 884.
-(pdftex.def)             Requested size: 250.04341pt x 161.5767pt.
-
-Overfull \vbox (6.61511pt too high) detected at line 884
- []
-
-[31
-
- <./images/CARMA(2,1)_GF.jpg>]
-<images/Zw229-15_Crop.jpg, id=1105, 5155.26pt x 3565.32pt>
-File: images/Zw229-15_Crop.jpg Graphic file (type jpg)
-
-<use images/Zw229-15_Crop.jpg>
-Package pdftex.def Info: images/Zw229-15_Crop.jpg used on input line 913.
-(pdftex.def)             Requested size: 180.45253pt x 124.79895pt.
- [32
-
- <./images/Zw229-15_Crop.jpg>]
-<images/Zw229-15_LC.jpg, id=1138, 4751.7525pt x 2889.79625pt>
-File: images/Zw229-15_LC.jpg Graphic file (type jpg)
-
-<use images/Zw229-15_LC.jpg>
-Package pdftex.def Info: images/Zw229-15_LC.jpg used on input line 920.
-(pdftex.def)             Requested size: 308.87476pt x 187.84335pt.
- [33
-
- <./images/Zw229-15_LC.jpg>]
-<images/Zw229-15_DampedHO.jpg, id=1170, 4615.2425pt x 2818.53pt>
-File: images/Zw229-15_DampedHO.jpg Graphic file (type jpg)
-
-<use images/Zw229-15_DampedHO.jpg>
-Package pdftex.def Info: images/Zw229-15_DampedHO.jpg used on input line 938.
-(pdftex.def)             Requested size: 300.0013pt x 183.21088pt.
- [34
-
- <./images/Zw229-15_DampedHO.jpg>]
-<images/Zw229-15_GF.jpg, id=1201, 4715.6175pt x 2854.665pt>
-File: images/Zw229-15_GF.jpg Graphic file (type jpg)
-
-<use images/Zw229-15_GF.jpg>
-Package pdftex.def Info: images/Zw229-15_GF.jpg used on input line 945.
-(pdftex.def)             Requested size: 306.5259pt x 185.55974pt.
- [35
-
- <./images/Zw229-15_GF.jpg>]
-<images/Zw229-15_distPSD.jpg, id=1232, 4679.4825pt x 2818.53pt>
-File: images/Zw229-15_distPSD.jpg Graphic file (type jpg)
-
-<use images/Zw229-15_distPSD.jpg>
-Package pdftex.def Info: images/Zw229-15_distPSD.jpg used on input line 952.
-(pdftex.def)             Requested size: 304.17705pt x 183.21088pt.
- [36
-
- <./images/Zw229-15_distPSD.jpg>]
-<images/Zw229-15_Times.jpg, id=1264, 3452.9pt x 3545.245pt>
-File: images/Zw229-15_Times.jpg Graphic file (type jpg)
-
-<use images/Zw229-15_Times.jpg>
-Package pdftex.def Info: images/Zw229-15_Times.jpg used on input line 959.
-(pdftex.def)             Requested size: 189.88374pt x 194.96202pt.
-
-Overfull \vbox (7.04472pt too high) detected at line 959
- []
-
-[37
-
- <./images/Zw229-15_Times.jpg>]
-<images/Zw229-15_mockLC.jpg, id=1295, 4679.4825pt x 2817.52625pt>
-File: images/Zw229-15_mockLC.jpg Graphic file (type jpg)
-
-<use images/Zw229-15_mockLC.jpg>
-Package pdftex.def Info: images/Zw229-15_mockLC.jpg used on input line 966.
-(pdftex.def)             Requested size: 304.17705pt x 183.14563pt.
- [38
-
- <./images/Zw229-15_mockLC.jpg>]
-<images/K2Campaigns.jpg, id=1325, 1016.89pt x 392.74pt>
-File: images/K2Campaigns.jpg Graphic file (type jpg)
-
-<use images/K2Campaigns.jpg>
-Package pdftex.def Info: images/K2Campaigns.jpg used on input line 1026.
-(pdftex.def)             Requested size: 330.48534pt x 127.63898pt.
- [39
-
- <./images/K2Campaigns.jpg>]
-<images/PowerOfSDSSK2.jpg, id=1357, 4254.89626pt x 2898.83pt>
-File: images/PowerOfSDSSK2.jpg Graphic file (type jpg)
-
-<use images/PowerOfSDSSK2.jpg>
-Package pdftex.def Info: images/PowerOfSDSSK2.jpg used on input line 1033.
-(pdftex.def)             Requested size: 212.75728pt x 144.94998pt.
- [40
-
- <./images/PowerOfSDSSK2.jpg>]
-<images/LC_2.jpg, id=1389, 1003.75pt x 649.42625pt>
-File: images/LC_2.jpg Graphic file (type jpg)
- <use images/LC_2.jpg>
-Package pdftex.def Info: images/LC_2.jpg used on input line 1045.
-(pdftex.def)             Requested size: 200.74644pt x 129.88295pt.
-
-[41
-
- <./images/LC_2.jpg>]
-<images/beamedLC.jpg, id=1420, 4403.45125pt x 2685.03125pt>
-File: images/beamedLC.jpg Graphic file (type jpg)
-
-<use images/beamedLC.jpg>
-Package pdftex.def Info: images/beamedLC.jpg used on input line 1069.
-(pdftex.def)             Requested size: 220.18546pt x 134.25943pt.
-
-Overfull \vbox (17.51282pt too high) detected at line 1069
- []
-
-[42
-
- <./images/beamedLC.jpg>]
-<images/beamingFactor.jpg, id=1451, 4140.46875pt x 2685.03125pt>
-File: images/beamingFactor.jpg Graphic file (type jpg)
-
-<use images/beamingFactor.jpg>
-Package pdftex.def Info: images/beamingFactor.jpg used on input line 1093.
-(pdftex.def)             Requested size: 207.03557pt x 134.25943pt.
-
-Overfull \vbox (17.51282pt too high) detected at line 1093
- []
-
-[43
-
- <./images/beamingFactor.jpg>]
-<images/beamedPSD.jpg, id=1484, 4141.4725pt x 2689.04625pt>
-File: images/beamedPSD.jpg Graphic file (type jpg)
-
-<use images/beamedPSD.jpg>
-Package pdftex.def Info: images/beamedPSD.jpg used on input line 1104.
-(pdftex.def)             Requested size: 207.08575pt x 134.46019pt.
- [44
-
- <./images/beamedPSD.jpg>]
-<images/Hogg_lc.jpg, id=1514, 587.19376pt x 442.65375pt>
-File: images/Hogg_lc.jpg Graphic file (type jpg)
-
-<use images/Hogg_lc.jpg>
-Package pdftex.def Info: images/Hogg_lc.jpg used on input line 1133.
-(pdftex.def)             Requested size: 146.79808pt x 110.66316pt.
-
-Overfull \hbox (9.83234pt too wide) in paragraph at lines 1133--1133
- [] 
- []
-
-[45
-
- <./images/Hogg_lc.jpg>] [46
-
-]
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\translate ' on input line 1558.
-
-(./talk.bbl
 LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
 (Font)              scaled to size 9.85492pt on input line 128.
-) [47
+) [15
 
-] [48
+] [16
 
 
-] [49
+] [17
 
 
 ]
@@ -1709,55 +1347,51 @@ LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
 \tf@snm=\write8
 \openout8 = `talk.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 2135.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 2135.
- (./talk.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 2135.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 2135.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 2154.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 2154.
+
+(./talk.aux)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 2154.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 2154.
 
 Package rerunfilecheck Info: File `talk.out' has not changed.
-(rerunfilecheck)             Checksum: 4B822E188F9EE939D093976355632FFD;1205.
+(rerunfilecheck)             Checksum: D9694BC855D0C50CCAD6B8D6DEDF7609;41.
 
 
 LaTeX Font Warning: Size substitutions with differences
-(Font)              up to 0.5pt have occurred.
+(Font)              up to 0.45pt have occurred.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 2135.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 2154.
  ) 
 Here is how much of TeX's memory you used:
- 20860 strings out of 493304
- 381888 string characters out of 6139870
- 449748 words of memory out of 5000000
- 23502 multiletter control sequences out of 15000+600000
- 132069 words of font info for 234 fonts, out of 8000000 for 9000
+ 20312 strings out of 493304
+ 372999 string characters out of 6139870
+ 449513 words of memory out of 5000000
+ 23146 multiletter control sequences out of 15000+600000
+ 69155 words of font info for 123 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 49i,17n,60p,593b,727s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 49i,17n,60p,593b,644s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/tex-gyre/q-ec.enc}{/usr/share/texlive/texmf
 -dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvip
 s/adforn/OrnementsADF.enc}</usr/share/texlive/texmf-dist/fonts/type1/arkandis/a
-dforn/OrnementsADF.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qhvb.pfb><
-/usr/share/texmf/fonts/type1/public/tex-gyre/qhvr.pfb></usr/share/texlive/texmf
--dist/fonts/type1/public/newtx/rntxmi.pfb></usr/share/texlive/texmf-dist/fonts/
-type1/public/newtx/rntxmi5.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
-c/newtx/rntxmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/r
-txmi.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newtx/rtxmi5.pfb></u
-sr/share/texlive/texmf-dist/fonts/type1/public/newtx/rtxmi7.pfb></usr/share/tex
-live/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/share/texlive/texmf-d
-ist/fonts/type1/public/txfonts/rtxsc.pfb></usr/share/texlive/texmf-dist/fonts/t
-ype1/public/txfonts/t1xtt.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
-/txfonts/txex.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txm
-ia.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txsy.pfb></usr
-/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/
-texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fon
-ts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/ti
-mes/utmri8a.pfb>
-Output written on talk.pdf (49 pages, 30129519 bytes).
+dforn/OrnementsADF.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qhvr.pfb><
+/usr/share/texlive/texmf-dist/fonts/type1/public/newtx/rntxmi5.pfb></usr/share/
+texlive/texmf-dist/fonts/type1/public/newtx/rntxmi7.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/txfonts/rtxmi.pfb></usr/share/texlive/texmf-dist/fon
+ts/type1/public/newtx/rtxmi5.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
+lic/newtx/rtxmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/
+rtxr.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxsc.pfb></
+usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/t1xtt.pfb></usr/share/t
+exlive/texmf-dist/fonts/type1/public/txfonts/txsy.pfb></usr/share/texlive/texmf
+-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/typ
+e1/urw/times/utmri8a.pfb>
+Output written on talk.pdf (17 pages, 10646628 bytes).
 PDF statistics:
- 1778 PDF objects out of 2073 (max. 8388607)
- 1635 compressed objects within 17 object streams
- 125 named destinations out of 1000 (max. 500000)
- 439 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 614 PDF objects out of 1000 (max. 8388607)
+ 554 compressed objects within 6 object streams
+ 39 named destinations out of 1000 (max. 500000)
+ 125 words of extra memory for PDF output out of 10000 (max. 10000000)
 

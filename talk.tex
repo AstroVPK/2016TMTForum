@@ -55,14 +55,14 @@
 
 \normalfont\normalfont
 
-\section{Introduction to AGN Variability}
+%\section{Introduction to AGN Variability}
 
-\subsection{The Problem}
+%\subsection{The Problem}
 
 \begin{frame}
-\frametitle{AGN Exhibit Rapid, Stochastic, Luminosity Variations\\(and we do not know why!)}
+\frametitle{Accretion Characteristic: Rapid, Stochastic, Luminosity Variations\\(and we do not know why!)}
   \begin{figure}
-    \includegraphics[scale=0.25]{images/NGC5548_Variability.jpg}
+    \includegraphics[scale=0.2]{images/NGC5548_Variability.jpg}
   \end{figure}
   \centering
     {\tiny \citep{Peterson99}}
@@ -70,7 +70,7 @@
   \centering
     \begin{column}{0.5\textwidth}
       \begin{itemize}
-        \item $\sim$ 90 \% vary {\tiny \citep{Sesar07}}
+        \item $\sim$ 90 \% of AGN vary {\tiny \citep{Sesar07}}
         \item Pan-spectral: shorter $\lambda \Rightarrow$ stronger variability
       \end{itemize}
     \end{column}
@@ -82,7 +82,7 @@
       %{\tiny \citep{UrryARAA}}
       \begin{itemize}
         \item Stochastic! {\tiny \citep{Peterson}}
-        \item longer $\lambda$ lag shorter $\lambda$
+        \item longer $\lambda$ lag shorter $\lambda$ (but sometimes backwards!)
       \end{itemize}
     \end{column}
   \end{columns}
@@ -200,8 +200,6 @@
     AGN quench star formation in galaxies!
   \end{center}
 \end{frame}
-
-\end{comment}
 
 \begin{frame}
 \frametitle{AGN Morphology: Continuum Variations $\rightarrow$ Origin in Accretion Disk}
@@ -325,6 +323,8 @@
   \end{itemize}
 \end{frame}
 
+\end{comment}
+
 \begin{frame}
 \frametitle{Search for timescales in Power Spectral Density (PSD)}
   \begin{center}
@@ -338,6 +338,8 @@
     {\tiny \citet{BelloniAccretion}}
   \end{center}
 \end{frame}
+
+\begin{comment}
 
 \begin{frame}
 \frametitle{\citet{Kelly09}: Model variability as DRW}
@@ -425,6 +427,8 @@
   \end{columns}
 \end{frame}
 
+\end{comment}
+
 \begin{frame}
 \frametitle{PSD of the Damped Random Walk}
   \begin{columns}
@@ -448,11 +452,13 @@
     %\item Generalize short timescale PSD: $PSD(f) = \frac{\sigma^{2}}{1 + (2 \pi \tau f)^{\gamma}}$ {\tiny \citep{mac04}}.
     \item Generalize: $PSD \propto \frac{1}{f^{\gamma}}$ {\tiny \citep{McHardy04}}
       %\pause
-    \item Test with data!
+    \item Test with Kepler data!
     \end{itemize}
     \end{column}
   \end{columns}
 \end{frame}
+
+\begin{comment}
 
 \section{Kepler} 
 
@@ -643,6 +649,8 @@
   \end{columns}
 \end{frame}
 
+\end{comment}
+
 \begin{frame}
 \frametitle{Full AGN sample} 
   \begin{columns}
@@ -689,6 +697,8 @@
   \end{columns}
 \end{frame}
 
+\begin{comment}
+
 \section{Exact MLE} 
 
 \subsection{Generalized Stochastic Processes} 
@@ -712,6 +722,8 @@
 
 \subsection{Introduction}
 
+\end{comment}
+
 \begin{frame}
 \frametitle{Continuous-time AutoRegressive Moving Average (C-ARMA) Processes}
   \begin{equation*} \mathrm{d}W \sim \mathcal{N}(0,\mathrm{d}t) \end{equation*}
@@ -720,7 +732,7 @@
     \centering
     \begin{column}{0.5\textwidth}
       \begin{itemize}
-        \item Uses It\={o} calculus {\tiny \citet{Brockwell14,Davis,Kelly14}}
+        \item Uses It\={o} calculus {\tiny \citet{Davis,Brockwell14,Kelly14}}
         \item LHS comes from linear perturbations of non-linear system
         \item C-ARMA $\overset{\mathrm{sample}}\longrightarrow$ ARMA
         \item PSD is a ratio of even polynomials in frequency
@@ -755,6 +767,8 @@
   %\end{center}
 \end{frame}
 
+\begin{comment}
+
 \begin{frame}
 \frametitle{Power Spectral Density\\Eg. C-ARMA($5$,$1$)}
   %\begin{equation*}\label{eq:CARMA21PSD} \mathrm{d}^{2}F + 2\omega\zeta \mathrm{d}F + \omega^{2}F = \beta_{1} \mathrm{d}(\mathrm{d}W) + \beta_{2} (\mathrm{d}W) \end{equation*}
@@ -775,7 +789,7 @@
   %\end{center}
 \end{frame}
 
-\subsection{State-Space Representation}
+%\subsection{State-Space Representation}
 
 \begin{frame}
 \frametitle{State Space Representation}
@@ -827,7 +841,7 @@
   %\end{center}
 \end{frame}
 
-\subsection{Model Inferencing}
+%\subsection{Model Inferencing}
 
 \begin{frame}
 \frametitle{The Kalman Filter}
@@ -853,6 +867,8 @@
     %{\tiny \citet{ArmitageReynolds03}}
   %\end{center}
 \end{frame}
+
+\end{comment}
 
 \begin{frame}
 \frametitle{Confidence Interval Estimates}
@@ -883,7 +899,9 @@
   %\end{center}
 \end{frame}
 
-\subsection{C-ARMA Analysis of Zw 229-15} 
+%\subsection{C-ARMA Analysis of Zw 229-15} 
+
+\begin{comment}
 
 \begin{frame}
 \frametitle{Zw 229-15 (kplr006932990)}
@@ -912,6 +930,8 @@
   \end{center}
 \end{frame}
 
+\end{comment}
+
 \begin{frame}
 \frametitle{C-ARMA($2$,$1$) model of Zw 229-15\\Smoothed light curve}
   \begin{figure}
@@ -928,8 +948,6 @@
   \end{figure}
 \end{frame}
 
-\end{comment}
-
 \begin{frame}
 \frametitle{C-ARMA($2$,$1$) model of Zw 229-15\\Damped Harmonic Oscillator}
   \begin{figure}
@@ -937,12 +955,16 @@
   \end{figure}
 \end{frame}
 
+\end{comment}
+
 \begin{frame}
 \frametitle{C-ARMA($2$,$1$) model of Zw 229-15\\Green's Function}
   \begin{figure}
     \includegraphics[scale=0.065]{images/Zw229-15_GF.jpg}
   \end{figure}
 \end{frame}
+
+\begin{comment}
 
 \begin{frame}
 \frametitle{C-ARMA($2$,$1$) model of Zw 229-15\\Disturbance PSD}
@@ -1012,11 +1034,9 @@
   \end{center}
 \end{frame}
 
-\end{comment}
+%\section{WIP \& Summary}
 
-\section{WIP \& Summary}
-
-\subsection{Work in Progress}
+%\subsection{Work in Progress}
 
 \begin{frame}
 \frametitle{Work in Progress\\K2 campaigns}
@@ -1025,24 +1045,23 @@
         \end{figure}
 \end{frame}
 
+\end{comment}
+
 \begin{frame}
 \frametitle{Work in Progress\\Power of SDSS+K2}
         \begin{figure}
-          \includegraphics[scale=0.05]{images/PowerOfSDSSK2.jpg}
+          \includegraphics[scale=0.065]{images/PowerOfSDSSK2.jpg}
         \end{figure}
 \end{frame}
 
 \begin{frame}
 \frametitle{Work in Progress\\K2 observations of Stripe 82 QSOs}
         \begin{figure}
-          \includegraphics[scale=0.20]{images/LC_2.jpg}
+          \includegraphics[scale=0.3]{images/LC_2.jpg}
         \end{figure}
-        \begin{itemize}
-          \item Add HSC data from Stripe 82.
-          \item Is it concurrent with K2 Campaign 12?
-          \item Can it be used to help calibrate Campaign 12?
-        \end{itemize}
 \end{frame}
+
+\begin{comment}
 
 \begin{frame}
 \frametitle{Work in Progress\\Beaming from binary SMBHs\\{\tiny Inspired by \citet*{binarySMBHNature15}}}
@@ -1132,7 +1151,7 @@
   \end{columns}
 \end{frame}
 
-\subsection{Summary}
+%\subsection{Summary}
 
 \begin{frame}
 \frametitle{Conclusions}
