@@ -31,7 +31,7 @@
 
 \title[{\normalfont\scshape Accretion Physics from Variability}]{{\normalfont\scshape Probing Accretion Processes Through Variability}}
 \subtitle{{\tiny 2016 TMT Science Forum\\Kyoto, Japan}}
-\author[{\normalfont\scshape Vishal Pramod Kasliwal}]{{\normalfont\scshape Vishal Pramod Kasliwal} \\ {\tiny {\texttt{vishal.kasliwal@gmail.com}}}}
+\author[{\normalfont\scshape Vishal Kasliwal}]{{\normalfont\scshape Vishal Pramod Kasliwal} \\ {\tiny {\texttt{vishal.kasliwal@gmail.com}}}}
 \institute[]
 {
   Department of Physics \& Astronomy \\
@@ -70,8 +70,8 @@
   \centering
     \begin{column}{0.5\textwidth}
       \begin{itemize}
-        \item $\sim$ 90 \% of AGN vary {\tiny \citep{Sesar07}}
-        \item Pan-spectral: shorter $\lambda \Rightarrow$ stronger variability
+        \item {\scriptsize $\sim$ 90 \% of AGN vary {\tiny \citep{Sesar07}}}
+        \item {\scriptsize Pan-spectral: shorter $\lambda \Rightarrow$ stronger variability}
       \end{itemize}
     \end{column}
     \begin{column}{0.5\textwidth}
@@ -81,9 +81,34 @@
       %\centering
       %{\tiny \citep{UrryARAA}}
       \begin{itemize}
-        \item Stochastic! {\tiny \citep{Peterson}}
-        \item longer $\lambda$ lag shorter $\lambda$ (but sometimes backwards!)
+        \item {\scriptsize Stochastic! {\tiny \citep{Peterson}}}
+        \item {\scriptsize $\lambda_{\mathrm{long}}$ lag $\lambda_{\mathrm{short}}$ (but sometimes backwards!)}
       \end{itemize}
+    \end{column}
+  \end{columns}
+  \begin{itemize}
+    \centering
+    \item {\small What can TMT contribute?}
+  \end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Beyond the Damped Random Walk}
+  \begin{columns}
+    \centering
+    \begin{column}{0.5\textwidth}
+    \centering
+    %{\tiny $\tau = 100$ d}
+      \begin{figure}
+        \includegraphics[scale=0.09]{images/DRW.jpg}
+      \end{figure}
+    \end{column}
+    \begin{column}{0.5\textwidth}
+    \centering
+    %{\tiny $\tau = 100$ d}
+      \begin{figure}
+        \includegraphics[scale=0.4]{images/AllSF.jpg}
+      \end{figure}
     \end{column}
   \end{columns}
 \end{frame}
@@ -323,8 +348,6 @@
   \end{itemize}
 \end{frame}
 
-\end{comment}
-
 \begin{frame}
 \frametitle{Search for timescales in Power Spectral Density (PSD)}
   \begin{center}
@@ -338,8 +361,6 @@
     {\tiny \citet{BelloniAccretion}}
   \end{center}
 \end{frame}
-
-\begin{comment}
 
 \begin{frame}
 \frametitle{\citet{Kelly09}: Model variability as DRW}
@@ -427,8 +448,6 @@
   \end{columns}
 \end{frame}
 
-\end{comment}
-
 \begin{frame}
 \frametitle{PSD of the Damped Random Walk}
   \begin{columns}
@@ -457,8 +476,6 @@
     \end{column}
   \end{columns}
 \end{frame}
-
-\begin{comment}
 
 \section{Kepler} 
 
@@ -649,56 +666,6 @@
   \end{columns}
 \end{frame}
 
-\end{comment}
-
-\begin{frame}
-\frametitle{Full AGN sample} 
-  \begin{columns}
-    \centering
-    \begin{column}{0.65\textwidth}
-      \begin{figure}
-        \includegraphics[scale=0.45]{images/AllLC.jpg}
-      \end{figure}
-    \end{column}
-    \begin{column}{0.35\textwidth}
-        \begin{itemize}
-        \item $z \sim 0.02$-$1.5$
-        \item $\delta t_{\mathrm{rest}} \sim 14$-$28$~min
-        \item $N \sim 16$k-$60$k
-        \item Wide variety of behavior!
-        \end{itemize}
-    \end{column}
-  \end{columns}
-\end{frame}
-
-
-\begin{frame}
-\frametitle{Structure function fits} 
-  \begin{columns}
-    \centering
-    \begin{column}{0.65\textwidth}
-      \begin{figure}
-        \includegraphics[scale=0.45]{images/AllSF.jpg}
-      \end{figure}
-    \end{column}
-    \begin{column}{0.35\textwidth}
-        \begin{itemize}
-        \item Not all AGN $\sim$ DRW
-        \item PSD model too simple
-        \item Variability onsets over $\sim 1$~hr to $\sim 1$~d
-        %\item \cite{Kasliwal15}
-        %\item Can't be due to 'stitching' or PDC corrections.
-        \end{itemize}
-        %\begin{figure}
-          %\includegraphics[scale=0.3]{../images/talk/MNRAS-2015-Kasliwal-4328-45_small.jpg}
-        %\end{figure}
-          {\tiny \citet*{Kasliwal15}}
-    \end{column}
-  \end{columns}
-\end{frame}
-
-\begin{comment}
-
 \section{Exact MLE} 
 
 \subsection{Generalized Stochastic Processes} 
@@ -733,14 +700,14 @@
     \begin{column}{0.5\textwidth}
       \begin{itemize}
         \item Uses It\={o} calculus {\tiny \citet{Davis,Brockwell14,Kelly14}}
-        \item LHS comes from linear perturbations of non-linear system
-        \item C-ARMA $\overset{\mathrm{sample}}\longrightarrow$ ARMA
-        \item PSD is a ratio of even polynomials in frequency
+        \item RHS: Correlation structure of all perturbations.
+        \item LHS: Evolution of individual perturbations.
+        \item PSD: ratio of even polynomials of frequency.
       \end{itemize}
     \end{column}
     \begin{column}{0.5\textwidth}
       \begin{figure}
-        \includegraphics[scale=0.0425]{images/CARMA(3,1)_LC.jpg}
+        \includegraphics[scale=0.0425]{images/CARMA(2,1)_LC.jpg}
         %${\scriptstyle \mathrm{d}^{2}f + 0.7 \mathrm{d}f + 0.011f = 7.0 \times 10^{-9} (\mathrm{d}W) + 1.2 \times 10^{-9} \mathrm{d}(\mathrm{d}W)}$
       \end{figure}
     \end{column}
@@ -750,18 +717,18 @@
 \begin{frame}
 \frametitle{Power Spectral Density\\Eg. C-ARMA($2$,$1$)}
   %\begin{equation*}\label{eq:CARMA21PSD} \mathrm{d}^{2}F + 2\omega\zeta \mathrm{d}F + \omega^{2}F = \beta_{1} \mathrm{d}(\mathrm{d}W) + \beta_{2} (\mathrm{d}W) \end{equation*}
-  \begin{columns}
-    \begin{column}{0.5\textwidth}
+  %\begin{columns}
+    %\begin{column}{0.5\textwidth}
       \begin{figure}
-        \includegraphics[scale=0.04]{images/CARMA(2,1)_PSD.jpg}
+        \includegraphics[scale=0.0775]{images/CARMA(2,1)_PSD.jpg}
       \end{figure}
-    \end{column}
-    \begin{column}{0.5\textwidth}
-      \begin{figure}
-        \includegraphics[scale=0.04]{images/CARMA(2,1)_LC.jpg}
-      \end{figure}
-    \end{column}
-  \end{columns}
+    %\end{column}
+    %\begin{column}{0.5\textwidth}
+      %\begin{figure}
+        %\includegraphics[scale=0.04]{images/CARMA(2,1)_LC.jpg}
+      %\end{figure}
+    %\end{column}
+  %\end{columns}
   %\begin{center}
   %{\tiny \citet*{Kasliwal15b}}
   %\end{center}
@@ -886,22 +853,15 @@
   \end{figure}
 \end{frame}
 
-\end{comment}
-
 \begin{frame}
 \frametitle{How to Interpret?: Green's Function of LHS\\(eg. C-ARMA($2$,$1$)...)}
   \begin{equation*}\label{eq:CARMAGF} \mathrm{d}^{2}G + 2\omega\zeta \mathrm{d}G + \omega^{2}G = \delta(0) \end{equation*}
   \begin{figure}
     \includegraphics[scale=0.06]{images/CARMA(2,1)_GF.jpg}
   \end{figure}
-  %\begin{center}
-  %{\tiny \citet*{Kasliwal15b}}
-  %\end{center}
 \end{frame}
 
-%\subsection{C-ARMA Analysis of Zw 229-15} 
-
-\begin{comment}
+\subsection{C-ARMA Analysis of Zw 229-15} 
 
 \begin{frame}
 \frametitle{Zw 229-15 (kplr006932990)}
@@ -1048,14 +1008,14 @@
 \end{comment}
 
 \begin{frame}
-\frametitle{Work in Progress\\Power of SDSS+K2}
+\frametitle{Prototype for LSST+TMT:\\Combining SDSS with K2}
         \begin{figure}
           \includegraphics[scale=0.065]{images/PowerOfSDSSK2.jpg}
         \end{figure}
 \end{frame}
 
 \begin{frame}
-\frametitle{Work in Progress\\K2 observations of Stripe 82 QSOs}
+\frametitle{Prototype for LSST+TMT:\\K2 observations of Stripe 82 QSOs}
         \begin{figure}
           \includegraphics[scale=0.3]{images/LC_2.jpg}
         \end{figure}
@@ -1153,22 +1113,6 @@
 
 %\subsection{Summary}
 
-\begin{frame}
-\frametitle{Conclusions}
-  \begin{itemize}
-    \item Kepler AGN exhibit a \textbf{wide variety} of behavior (flares \& possibly QPOs)
-    %\item PSD fits via monte carlo estimation of structure function
-    \item DRW does \textbf{not work} for all AGN
-    %\item Instrumentation \textbf{not responsible} for non-DRW behavior
-    \item AGN variability can be modelled as a C-ARMA process
-    \item Kalman filter can be used to infer C-ARMA parameters
-    \item C-ARMA($2$,$1$) process is an \textbf{appropriate model} of variability for Zw 229-15
-    \item Zw 229-15 acts like a \textbf{Damped Harmonic Oscillator Driven by Colored Noise}
-  \end{itemize}
-\end{frame}
-
-
-\begin{comment}
 
 \begin{frame}
 \frametitle{ARMA Stochastic Processes}
@@ -1572,6 +1516,67 @@
 \end{frame}
 
 \end{comment}
+
+\begin{frame}
+\frametitle{Conclusions}
+  \begin{itemize}
+    \item DRW does \textbf{not work} for all AGN
+    %\item PSD fits via monte carlo estimation of structure function
+    %\item DRW does \textbf{not work} for all AGN
+    %\item Instrumentation \textbf{not responsible} for non-DRW behavior
+    \item Variability $\Rightarrow$ C-ARMA process
+    %\item Inferencing $\Rightarrow$ Kalman filter
+    \item C-ARMA($2$,$1$) process $\Rightarrow$ Zw 229-15 variability
+    \item Zw 229-15 $\Rightarrow$ \textbf{Damped Harmonic Oscillator + Colored Noise}
+    \item Future time-domain surveys: \textbf{combine multiple data sources}
+  \end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Full AGN sample} 
+  \begin{columns}
+    \centering
+    \begin{column}{0.65\textwidth}
+      \begin{figure}
+        \includegraphics[scale=0.45]{images/AllLC.jpg}
+      \end{figure}
+    \end{column}
+    \begin{column}{0.35\textwidth}
+        \begin{itemize}
+        \item $z \sim 0.02$-$1.5$
+        \item $\delta t_{\mathrm{rest}} \sim 14$-$28$~min
+        \item $N \sim 16$k-$60$k
+        \item Wide variety of behavior!
+        \end{itemize}
+    \end{column}
+  \end{columns}
+\end{frame}
+
+
+\begin{frame}
+\frametitle{Structure Function fits} 
+  \begin{columns}
+    \centering
+    \begin{column}{0.65\textwidth}
+      \begin{figure}
+        \includegraphics[scale=0.45]{images/AllSF.jpg}
+      \end{figure}
+    \end{column}
+    \begin{column}{0.35\textwidth}
+        \begin{itemize}
+        \item Not all AGN $\sim$ DRW
+        \item PSD model too simple
+        \item Variability onsets over $\sim 1$~hr to $\sim 1$~d
+        %\item \cite{Kasliwal15}
+        %\item Can't be due to 'stitching' or PDC corrections.
+        \end{itemize}
+        %\begin{figure}
+          %\includegraphics[scale=0.3]{../images/talk/MNRAS-2015-Kasliwal-4328-45_small.jpg}
+        %\end{figure}
+          {\tiny \citet*{Kasliwal15}}
+    \end{column}
+  \end{columns}
+\end{frame}
 
 \appendix
 \begin{frame}[allowframebreaks]

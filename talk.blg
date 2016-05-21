@@ -4,44 +4,44 @@ The top-level auxiliary file: talk.aux
 The style file: yahapj.bst
 Database file #1: ../TeX/bibliography/allrefs.bib
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
-You've used 29 entries,
+You've used 7 entries,
             3201 wiz_defined-function locations,
-            896 strings with 12346 characters,
-and the built_in function-call counts, 15825 in all, are:
-= -- 1246
-> -- 1139
-< -- 19
-+ -- 433
-- -- 398
-* -- 1375
-:= -- 2825
-add.period$ -- 29
-call.type$ -- 29
-change.case$ -- 189
-chr.to.int$ -- 28
-cite$ -- 29
-duplicate$ -- 784
-empty$ -- 1034
-format.name$ -- 454
-if$ -- 3190
-int.to.chr$ -- 2
+            713 strings with 6987 characters,
+and the built_in function-call counts, 4022 in all, are:
+= -- 268
+> -- 353
+< -- 3
++ -- 130
+- -- 122
+* -- 373
+:= -- 759
+add.period$ -- 7
+call.type$ -- 7
+change.case$ -- 41
+chr.to.int$ -- 7
+cite$ -- 7
+duplicate$ -- 174
+empty$ -- 250
+format.name$ -- 127
+if$ -- 787
+int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 25
-newline$ -- 92
-num.names$ -- 118
-pop$ -- 297
+missing$ -- 7
+newline$ -- 26
+num.names$ -- 28
+pop$ -- 63
 preamble$ -- 2
-purify$ -- 189
+purify$ -- 41
 quote$ -- 0
-skip$ -- 493
+skip$ -- 120
 stack$ -- 0
-substring$ -- 683
-swap$ -- 29
-text.length$ -- 4
+substring$ -- 153
+swap$ -- 5
+text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 255
+type$ -- 57
 warning$ -- 0
-while$ -- 136
+while$ -- 29
 width$ -- 0
-write$ -- 298
+write$ -- 74
